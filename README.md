@@ -1,2 +1,2 @@
 # typingbot
- very basic bot that types what you want it to type
+ very basic script that types what you want it to type
