@@ -1,0 +1,2 @@
+# typingbot
+ auto typer
